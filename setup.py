@@ -3,7 +3,7 @@ import setuptools
 long_description = open("README.md", "r").read()
 
 setuptools.setup(
-    name="pydb",
+    name="pydb-SIMPLE",
     version="0.0.1",
     description="A database system for Python",
     long_description=long_description,
